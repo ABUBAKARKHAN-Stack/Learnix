@@ -15,7 +15,7 @@ function LandingMain() {
       img: awais,
       social: {
         github: 'https://github.com/iawais-dev',
-        linkedin: 'https://www.linkedin.com/in/awais-tahir',
+        linkedin: 'https://www.linkedin.com/in/awais-tahir-6a2898333',
         instagram: 'https://www.instagram.com/its.awais.tahir',
       },
     },
